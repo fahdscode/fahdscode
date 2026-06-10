@@ -43,10 +43,13 @@ Headless storefront built on Shopify's Hydrogen framework. Performance-first arc
 ### 🛢️ Petrolife — Landing Page
 High-converting landing page for an energy sector brand. Mobile-first design, fast load times, and clear conversion funnel.
 
+### 🚢 FastUP — Landing Page
+High-converting landing page for an Logistic sector brand. Mobile-first design, fast load times, and clear conversion funnel.
+
 ---
 
 ## Open to Work
 
 Available for **freelance projects** and **full-time roles**.
 
-📧 [fahdgamad080@gmail.com](mailto:fahdgamad080@gmail.com)
+📧 [fahdscode@gmail.com](mailto:fahdscode@gmail.com)
